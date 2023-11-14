@@ -110,7 +110,8 @@
         "ms-vscode.cmake-tools",
         "ms-vscode.cpptools",
         "timonwong.shellcheck",
-        "twxs.cmake"
+        "twxs.cmake",
+        "ms-toolsai.jupyter"
       ]
     }
   },
